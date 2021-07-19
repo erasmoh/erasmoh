@@ -7,6 +7,8 @@
 
 - ⚡ Fun fact: I didn't study Engineering or CS. I did study Graphic Design & Journalism
 
+- 🖌 On my spare time I love to illustrate: <a href="https://instagram.com/erasmo.illustration" target="_blank">Check my art</a>
+
 - 💬 Ask me about **Wordpress, PHP, React, Vue, Javascript in general**
 
 <h3 align="left">Connect with me:</h3>
