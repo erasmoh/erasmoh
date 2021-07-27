@@ -3,7 +3,7 @@
 
 - 😄 I’m available for hire
 
-- 🌱 I’m currently learning **Python, Node and React Native**
+- 🌱 I’m currently learning **Python, Node and Improving my React skills **
 
 - ⚡ Fun fact: I didn't study Engineering or CS. I did study Graphic Design & Journalism
 
