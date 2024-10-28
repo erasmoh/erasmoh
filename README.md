@@ -9,7 +9,7 @@
 
 - 🖌 I love illustration, on my spare time I do it (I'm not good at it): <a href="https://instagram.com/erasmo.illustration" target="_blank">Check my art</a>
 
-- 💬 Ask me about **Next.jsReact, Vue, Webpack, Javascript in general, Wordpress and PHP**
+- 💬 Ask me about **Next.js, React, Storybook, Vue, Webpack, Typescript, Javascript in general, Wordpress and PHP**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
