@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Erasmo Hernández</h1>
 <h3 align="center">Venezuelan developer living in Chile</h3>
 
-- 😄 I’m not available for hire at the moment
+- 😄 I’m not available for hire at the moment (But you can try to convince me)
 
-- 🌱 I’m currently learning **Python, Node and Improving my React skills **
+- 🌱 I’m currently learning **Python, to improve my skills and be able to work more with AI**
 
 - ⚡ Fun fact: I didn't study Engineering or CS. I did study Graphic Design & Journalism
 
-- 🖌 On my spare time I love to illustrate: <a href="https://instagram.com/erasmo.illustration" target="_blank">Check my art</a>
+- 🖌 I love illustration, on my spare time I do it (I'm not good at it): <a href="https://instagram.com/erasmo.illustration" target="_blank">Check my art</a>
 
-- 💬 Ask me about **React, Vue, Webpack, Javascript in general, Wordpress and PHP**
+- 💬 Ask me about **Next.jsReact, Vue, Webpack, Javascript in general, Wordpress and PHP**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
